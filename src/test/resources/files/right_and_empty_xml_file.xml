@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+    <soap:Body>
+        <ns2:GetTransactionsResponse xmlns:ns2="http://dbo.qulix.com/ukrsibdbo">
+            <transactions>
+            </transactions>
+        </ns2:GetTransactionsResponse>
+    </soap:Body>
+</soap:Envelope>
